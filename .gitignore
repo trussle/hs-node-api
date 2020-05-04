@@ -2,7 +2,6 @@ distribution/
 node_modules/
 build/
 lib/
-dist/
 .env
 sandbox*
 test.js
